@@ -18,6 +18,8 @@ A comprehensive list of the best resources for learning Scala.
 * [Programming in Scala](http://www.artima.com/shop/programming_in_scala_2ed)
 * http://aperiodic.net/phil/scala/s-99/
 * http://www.scala-lang.org/docu/files/ScalaByExample.pdf
+* http://blog.rntech.co.uk/2015/02/08/moving-from-java-to-scala/
+* http://docs.scala-lang.org/style/overview.html
 
 <h1>Advanced</h1>
 
