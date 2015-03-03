@@ -7,6 +7,7 @@ A comprehensive list of the best resources for learning Scala.
 * http://scala-exercises.47deg.com/index.html
 * http://www.simplyscala.com/
 * [Introduction to the Art of Computer Programming Using Scala](http://www.amazon.com/Introduction-Programming-Chapman-Textbooks-Computing/dp/1439896666)
+* https://www.youtube.com/user/DrMarkCLewis
 * http://www.scala-tour.com/#/hello-wolrd
 * http://www.tutorialspoint.com/scala/scala_quick_guide.htm
 
