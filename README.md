@@ -25,3 +25,4 @@ A comprehensive list of the best resources for learning Scala.
 * [Scala for the Impatient](http://www.amazon.com/Scala-Impatient-Cay-S-Horstmann/dp/0321774094) 
 * [Scala in Depth](http://www.manning.com/suereth/)
 * http://daily-scala.blogspot.co.uk/
+* http://danielwestheide.com/scala/neophytes.html
