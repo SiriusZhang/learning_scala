@@ -14,6 +14,7 @@ A comprehensive list of the best resources for learning Scala.
 * https://www.coursera.org/course/progfun
 * http://www.scalacourses.com/
 * [Programming in Scala](http://www.artima.com/shop/programming_in_scala_2ed)
+* [Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
 
 <h1>Advanced</h1>
 
