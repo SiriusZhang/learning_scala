@@ -1,3 +1,6 @@
+A comprehensive list of the best resources for learning Scala. 
+
+
 <h1>Beginner</h1>
 
 * http://scalatutorials.com/tour/
