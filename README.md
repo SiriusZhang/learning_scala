@@ -3,6 +3,7 @@
 * http://scalatutorials.com/tour/
 * http://scala-exercises.47deg.com/index.html
 * http://www.simplyscala.com/
+* [Introduction to the Art of Computer Programming Using Scala](http://www.amazon.com/Introduction-Programming-Chapman-Textbooks-Computing/dp/1439896666)
 
 <h1>Intermediate</h1>
 
